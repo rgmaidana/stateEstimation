@@ -23,13 +23,11 @@ Go to the cloned directory and run the pip local install:
 pip install -e .
 ```
 
-<!---
 Alternatively, you can install the package directly from PyPI's repositories:
 
 ```
 pip install -U stateEstimation
 ```
---->
 
 ## Usage
 
