@@ -11,22 +11,22 @@ Tested and working in Linux Ubuntu 18.06.
 
 ## Installation
 
-To install the package, you may use [PIP](https://pypi.org/project/pip/). First, clone the repository to your computer:
+To install the package, you may use [PIP](https://pypi.org/project/pip/):
+
+```
+pip install -U stateEstimation
+```
+
+Alternatively, you can install the package locally. First, clone the repository to your computer:
 
 ```
 git clone http://github.com/rgmaidana/stateEstimation $HOME/stateEstimation
 ```
 
-Go to the cloned directory and run the pip local install:
+Go to the cloned directory and run:
 
 ```
 pip install -e .
-```
-
-Alternatively, you can install the package directly from PyPI's repositories:
-
-```
-pip install -U stateEstimation
 ```
 
 ## Usage
